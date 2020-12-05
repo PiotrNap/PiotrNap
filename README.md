@@ -3,8 +3,10 @@
 <p>My name is Piotr, I'm a frontend developer living in Belgium. 
 I like learning in public and teaching myself new things.</p>
 </br>
-<p>If you want to contact me or just say 'hi', (<a href="mailto:piotr.napierala94@gmail.com">you can send me an email</a>).</p>
-<p>And if you still have plenty of time, and don't know what to do with it, check out my YT channel - (<a href="https://www.youtube.com/channel/UCjQS5rdafvKW72D4uM_-MUQ" target="_blank" rel="nofollow">Click here!</a>)</p>
+<p>If you want to contact me or just say 'hi', <a href="mailto:piotr.napierala94@gmail.com">you can send me an email</a>.</p>
+<p>And if you still have plenty of time, and not know what to do, <a href="https://www.youtube.com/channel/UCjQS5rdafvKW72D4uM_-MUQ" target="_blank" rel="nofollow">check out my YouTube channel.</a></p>
+
+Peace!
 
 <a href="https://github.com/PiotrNap/PiotrNap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrNap&hide=ruby,html&title_color=ccd6f6&text_color=8892b0&icon_color=e6a52b&bg_color=112554" />
