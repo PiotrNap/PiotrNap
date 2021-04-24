@@ -5,7 +5,7 @@ I like to learn in public and constantly teaching myself new things.</p>
 </br>
 <p>If you want to contact me or just say 'hi', <a href="mailto:piotr.napierala94@gmail.com">you can send me an email</a>.</p>
 <p>Or just, <a href="https://www.youtube.com/channel/UCjQS5rdafvKW72D4uM_-MUQ" target="_blank" rel="nofollow">check out my YouTube channel.</a></p>
-
+<p>My gitlab <a href="https://gitlab.com/piotr.napierala94" rel="nofollow" target="_blank">piotr.napierala94</a></p>
 
 
 <a href="https://github.com/PiotrNap/PiotrNap">
