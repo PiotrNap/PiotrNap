@@ -1,10 +1,10 @@
 ### Hello,
 
-<p>My name is Piotr, I'm a frontend developer living in Belgium. 
-I like to learn in public and constantly teaching myself new things.</p>
+<p>My name is Piotr, I'm a frontend developer currently living in Belgium. 
+I like to learn in public and help others with .</p>
 </br>
-<p>If you want to contact me or just say 'hi', <a href="mailto:piotr.napierala94@gmail.com">you can send me an email</a>.</p>
-<p>Or just, <a href="https://www.youtube.com/channel/UCjQS5rdafvKW72D4uM_-MUQ" target="_blank" rel="nofollow">check out my YouTube channel.</a></p>
+<p>If you want to contact me or just say 'hi', just drop me a <a href="mailto:piotr.napierala94@gmail.com">line</a></p>
+<p>Or just, check out my YouTube <a href="https://www.youtube.com/channel/UCjQS5rdafvKW72D4uM_-MUQ" target="_blank" rel="nofollow">channel.</a></p>
 <p>My gitlab <a href="https://gitlab.com/piotr.napierala94" rel="nofollow" target="_blank">piotr.napierala94</a></p>
 
 
