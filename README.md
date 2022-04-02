@@ -6,7 +6,6 @@
 <p>Or check out my YouTube <a href="https://www.youtube.com/channel/UCjQS5rdafvKW72D4uM_-MUQ" target="_blank" rel="nofollow">channel.</a></p>
 <p>My gitlab <a href="https://gitlab.com/piotr.napierala94" rel="nofollow" target="_blank">piotr.napierala94</a>.</p>
 <br/>
-<p>My website:<br/>
-    web 2.0 https://piotrnap.com<br/>
-    web 3.0 https://odd-dust-3117.on.fleek.co/
+<p>My website
+   (ipfs) https://odd-dust-3117.on.fleek.co/
 </p>
